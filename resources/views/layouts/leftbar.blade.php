@@ -29,16 +29,16 @@
                 <a href="{{{url('bank_accounts')}}}">Bank Account</a>
             </li>
 
-            <li>
-                <a href="{{{url('user')}}}">Agent</a>
-            </li>
+{{--            <li>--}}
+{{--                <a href="{{{url('user')}}}">Agent</a>--}}
+{{--            </li>--}}
 
-            <li>
-                <a href="{{{url('property')}}}">Property</a>
-            </li>
-            <li>
-                <a href="{{{url('report')}}}">Agent Report</a>
-            </li>
+{{--            <li>--}}
+{{--                <a href="{{{url('property')}}}">Property</a>--}}
+{{--            </li>--}}
+{{--            <li>--}}
+{{--                <a href="{{{url('report')}}}">Agent Report</a>--}}
+{{--            </li>--}}
             <li>
                 @guest
                 <a href="{{{url('login')}}}">Sign In</a>
